@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../HTML TUTORIAL"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "p project"
+	}
+}
